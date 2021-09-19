@@ -253,7 +253,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(104, 100, 100, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -265,7 +265,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #45505b;
+  color: #fff;
 }
 #hero p {
   color: #45505b;
@@ -343,7 +343,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #0563bb;
+  background: rgba(104, 100, 100, 0.8);
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -443,7 +443,7 @@ section {
   font-style: normal;
 }
 .skills .progress-bar-wrap {
-  background: #f2f3f5;
+  background: rgba(104, 100, 100, 0.8);
 }
 .skills .progress-bar {
   width: 1px;
@@ -479,7 +479,7 @@ section {
 }
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
+  background: rgba(104, 100, 100, 0.8);
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -886,7 +886,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #eef7ff;
+  background: rgba(104, 100, 100, 0.8);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1000,8 +1000,8 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f8f9;
-  color: #45505b;
+  background: rgba(104, 100, 100, 0.8);
+  color: #fff;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
